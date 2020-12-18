@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="List&lt;T&gt;">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gkBAACBCgABEgAAAgGAQBAAQAAAgIIAACAEAEAAEAgI=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rDB_Iterator&lt;T&gt;">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAJAQAEAAQAAAAAABAAAAAAgAAAAAAA=</HashCode>
+      <FileName>DB_Iterator_reverse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DB_Iterator&lt;T&gt;">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAIAQAEAAQAAAAAABAAAAAAgAAQAAAA=</HashCode>
+      <FileName>DB_Iterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ListNode&lt;T&gt;">
+    <Position X="4.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAA=</HashCode>
+      <FileName>DB_Iterator.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
